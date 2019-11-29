@@ -1,0 +1,61 @@
+// @import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css?family=Courgette|Monoton|Crimson+Pro&display=swap');
+.covalence-blue {
+    color: #0091ea;
+}
+
+.courgette {
+    font-family:'Courgette',cursive;
+}
+hr {
+    color:'black';
+    height:10px;
+    width:80%
+}
+.mono {
+    font-family: 'Monoton', cursive;
+}
+.crimson {
+    font-family:'Crimson Pro',serif;
+}
+
+.gradient {
+    background: linear-gradient(to bottom,
+    #ffe8e4 0,
+    #ffe8e4 50%,
+    #ece4ff 50%,
+    #ece4ff 100%
+    )
+}
+.abtG {
+    background: linear-gradient(to bottom,
+    #ffe8e4 0,
+    #ffe8e4 50%,
+    #e4fff4 50%,
+    #e4fff4 100%
+    )
+}
+
+.contactG {
+    background: linear-gradient(to bottom,
+    #ffe8e4 0,
+    #ffe8e4 50%,
+    #e6aaa0 50%,
+    #e6aaa0 100%
+    )
+}
+
+.projectG {
+    background: linear-gradient(to bottom,
+    #ffe8e4 0,
+    #ffe8e4 50%,
+    #e6aaa0 50%,
+    #e6aaa0 100%
+
+    // #fff6e4 50%,
+    // #fff6e4 100%
+    )
+}
+
+
