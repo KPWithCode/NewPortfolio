@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import YelpApp from '../media/YelpApp.mp4';
 import HostelWebsite from '../media/HostelWebsite.mp4'
-import { SocialIcon} from 'react-social-icons';
+import { SocialIcon } from 'react-social-icons';
 const Projects = () => {
 
 
@@ -21,7 +21,7 @@ const Projects = () => {
 
                         <div className="card shadow p-3 mb-5" style={{ width: '50%', backgroundColor: '#ffe8e4', borderColor: '#ffe8e4' }}>
                             {/* <img className="card-img-top" style={{ height: '50%' }} src={require('../photos/HostelSite.png')} alt="Hostel Site" /> */}
-                            <video controls autoPlay className="card-img-top" style={{height:'50%'}} src={HostelWebsite} type="video/mp4" />
+                            <video controls autoPlay className="card-img-top" style={{ height: '50%' }} src={HostelWebsite} type="video/mp4" />
                             <div className="card-body" style={{ height: '20%' }}>
                                 <p className="crimson" style={{ fontSize: '1.5em' }}>Hostel Landing Page</p>
                                 <SocialIcon url="https://github.com/KPWithCode/Hostelle" />
@@ -48,7 +48,7 @@ const Projects = () => {
 
                         <div className="card shadow p-3 mb-5" style={{ width: '50%', backgroundColor: '#ffe8e4', borderColor: '#ffe8e4' }}>
                             {/* <img className="card-img-top" style={{ height: '60%' }} src={require('../media/YelpApp.mp4')} alt="Weather App" /> */}
-                            <video controls autoPlay className="card-img-top" style={{height:'50%'}} src={YelpApp} type="video/mp4" />
+                            <video controls autoPlay className="card-img-top" style={{ height: '50%' }} src={YelpApp} type="video/mp4" />
                             <div className="card-body" style={{ height: '20%' }}>
                                 <p className="crimson" style={{ fontSize: '1.5em' }}>Weather App</p>
                                 <SocialIcon url="https://github.com/KPWithCode/Foodie" />
