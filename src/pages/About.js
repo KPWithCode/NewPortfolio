@@ -16,7 +16,6 @@ const About = () => {
                         </div>
                     </div>
                     <section className="mx-5 p-3 shadow-lg  " style={{ height: '50%' }}>
-
                         <h3 className="crimson mx-5 d-flex justify-content-center" style={{ fontSize: '2em', marginTop: '1em', lineHeight: '1.3em' }}>
                             Full Stack Developer who is currently interning at Errunds. A startup connecting Brick and Mortar businesses with their local consumers.
                             My introduction to coding stemmed from my background in Psychology as I became curious about

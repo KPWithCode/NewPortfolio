@@ -50,7 +50,7 @@ const Projects = () => {
                             {/* <img className="card-img-top" style={{ height: '60%' }} src={require('../media/YelpApp.mp4')} alt="Weather App" /> */}
                             <video controls autoPlay className="card-img-top" style={{ height: '50%' }} src={YelpApp} type="video/mp4" />
                             <div className="card-body" style={{ height: '20%' }}>
-                                <p className="crimson" style={{ fontSize: '1.5em' }}>Weather App</p>
+                                <p className="crimson" style={{ fontSize: '1.5em' }}>React Native Food App </p>
                                 <SocialIcon url="https://github.com/KPWithCode/Foodie" />
                             </div>
                         </div>
