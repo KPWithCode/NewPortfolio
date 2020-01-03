@@ -17,7 +17,7 @@ const About = () => {
                     </div>
                     <section className="mx-5 p-3 shadow-lg  " style={{ height: '50%' }}>
                         <h3 className="crimson mx-5 d-flex justify-content-center" style={{ fontSize: '2em', marginTop: '1em', lineHeight: '1.3em' }}>
-                            Full Stack Developer who is currently interning at Errunds. A startup connecting Brick and Mortar businesses with their local consumers.
+                            Full Stack Developer who is currently interning at Errunds. A startup connecting Brick and Mortar businesses with local consumers.
                             My introduction to coding stemmed from my background in Psychology as I became curious about
                             Human-Computer Interaction. Soon after I enrolled into Covalence.io Molecular Program (Part-Time).
                             Join me as I exercise my passion to improve as a Full Stack Developer. Find out more about me by clicking one of the links below
