@@ -26,8 +26,8 @@ const Projects = () => {
                                 <p className="crimson" style={{ fontSize: '1.5em', fontWeight: 'bold' }}>Hostelle</p>
                                 <SocialIcon url="https://github.com/KPWithCode/Hostelle" />
                             </div>
-                            <p className="crimson" style={{ fontSize: '1.4em' }}>Hostel</p>
-                            <p className="crimson" style={{ fontSize: '1.2em' }}>React & Bootstrap</p>
+                            <p className="crimson" style={{ fontSize: '1.4em' }}>Hostel Website</p>
+                            <p className="crimson" style={{ fontSize: '1.2em' }}>Landing & Coming Soon Page using React & Bootstrap</p>
                         </div>
                         <div className="card shadow p-3 mb-5 mt-5" style={{ width: '50%', backgroundColor: '#ffe8e4', borderColor: '#ffe8e4' }}>
                             {/* <img className="card-img-top" style={{ height: '50%' }} src={require('../photos/BlogSite.png')} alt="Blog Site" /> */}
