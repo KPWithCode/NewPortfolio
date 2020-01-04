@@ -34,7 +34,7 @@ const Projects = () => {
                             <video controls autoPlay className="card-img-top shadow" style={{ height: '50%' }} src={Ontheball} type="video/mp4" />
                             <div className="card-body" style={{ height: '20%' }}>
                                 <p className="crimson" style={{ fontSize: '1.5em', fontWeight: 'bold' }}>On The Ball</p>
-                                <SocialIcon url="https://github.com/KPWithCode/haven2" />
+                                <SocialIcon url="https://github.com/KPWithCode/Fit-Tracker" />
                             </div>
                             <p className="crimson" style={{ fontSize: '1.4em' }}>Fitness Tracker</p>
                             <p className="crimson" style={{ fontSize: '1.2em' }}>Crud based application using the MERN stack</p>
@@ -42,7 +42,7 @@ const Projects = () => {
 
 
                         <div className="card shadow p-3 mb-5 mt-5" style={{ width: '50%', backgroundColor: '#ffe8e4', borderColor: '#ffe8e4' }}>
-                            <img className="card-img-top" style={{ height: '50%' }} src={require('../photos/PusherChat.png')} alt="Chatroom App" />
+                            <img className="card-img-top shadow" style={{ height: '50%' }} src={require('../photos/PusherChat.png')} alt="Chatroom App" />
                             <div className="card-body" style={{ height: '20%' }}>
                                 <p className="crimson" style={{ fontSize: '1.5em', fontWeight: 'bold' }}>AgriChat</p>
                                 <SocialIcon url="https://github.com/KPWithCode/HavenChatApp" />
