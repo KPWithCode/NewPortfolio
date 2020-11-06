@@ -26,7 +26,7 @@ const About = () => {
                         <div className="d-flex justify-content-center my-5 ">
 
                             <div className="mx-2">
-                            <SocialIcon url="https://www.linkedin.com/in/kyle-phillips-57a20318b/" />
+                            <SocialIcon url="https://www.linkedin.com/in/%F0%9F%9B%AB-kyle-phillips-57a20318b/" />
                             </div>
                             {/* <button className="crimson mt-2 shadow mx-3" style={{ backgroundColor: '#ffe8e4' }}>
                                 <Link to="/contact" style={{ textDecoration: 'None', color: 'black', backgroundColor: '#ffe8e4', width: '100%', height: '100%' }}>Github
